@@ -73,6 +73,9 @@ define TobaccoHistoryNeeded:
   MostRecentValidSmokingStatus is null or
   MostRecentValidSmokingStatus ~ "Smoking status unknown"
 
+define InPopulationAndTobaccoHistoryNeeded:
+  InPopulation and TobaccoHistoryNeeded
+
 define IsEverSmoker:
   if MostRecentValidSmokingStatus is not null  
     then 
