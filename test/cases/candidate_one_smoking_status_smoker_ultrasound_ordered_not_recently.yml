@@ -3,9 +3,8 @@ data:
   - resourceType: Patient
     name: Joe Smith
     gender: male
-# Unless today is 2021-11-10
-# ...please adjust the birthdate to make this patient's   
-# ...age 70 years. 
+# "Now" at the time of execution is set to 2021-11-10T00:00:00.0Z
+# ...making this patient age 70 years.  
     birthDate: 1951-11-10
   - resourceType: Observation
     code: 'LOINC#72166-2 Tobacco smoking status'
@@ -14,8 +13,9 @@ data:
   - resourceType: ServiceRequest
     code: 'SNOMEDCT#241462009 Ultrasound scan of abdominal aorta (procedure)'
     status: active
-# edit next line to make > 12 months ago
-    authoredOn: 2020-11-02T00:00:00.000Z
+# "Now" at the time of execution is set to 2021-11-10T00:00:00.0Z
+# making this test 1 year plus 1 day ago. 
+    authoredOn: 2020-11-09T00:00:00.000Z
 results:
   Notification: >-
     You should have an abdominal aorta ultrasound.

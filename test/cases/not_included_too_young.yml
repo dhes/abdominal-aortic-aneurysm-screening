@@ -3,9 +3,8 @@ data:
   - resourceType: Patient
     name: Joe Smith
     gender: male
-# Unless today is 2021-11-10
-# ...please adjust the birthdate to make this patient's   
-# ...age 65 years minus 1 day.
+# "Now" at the time of execution is to 2021-11-10T00:00:00.0Z
+# ...making this patient age 65 minus 1 day. 
     birthDate: 1956-11-11
 results:
   Notification: null
