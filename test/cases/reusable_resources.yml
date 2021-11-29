@@ -1,0 +1,3 @@
+reusable_resources: &needTobaccoHistory
+  Information: >-
+    INFORMATION: Please record a tobacco history. Has this patient ever smoked?
