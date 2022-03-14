@@ -18,6 +18,7 @@ data:
     birthDate: 1953-06-05
   - resourceType: Observation
     status: final
+    category: 'OBS-CAT#laboratory Laboratory'
     code: 'LOINC#2085-9 Cholesterol in HDL [Mass/volume] in Serum or Plasma'
     effectiveDateTime: 2017-11-20
     valueQuantity: 62 mg/dL
