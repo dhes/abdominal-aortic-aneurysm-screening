@@ -145,7 +145,7 @@ define Notification:
 
 define Recommendation:
   if InPopulation then
-'Experts (i.e., [The U.S. Preventive Services Task Force](https://www.uspreventiveservicestaskforce.org/Page/Name/about-the-uspstf)) find that men your age that ever smoked should have an ultrasound performed on their aorta to make sure there is not aneurysm.
+'Experts (i.e., [The U.S. Preventive Services Task Force](https://www.uspreventiveservicestaskforce.org/Page/Name/about-the-uspstf)) find that men your age that ever smoked should have an ultrasound performed on their aorta to make sure there is no aneurysm.
 
 Here are some links to resources to help you get started:
 
