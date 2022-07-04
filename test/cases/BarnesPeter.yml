@@ -91,6 +91,27 @@ data:
     # most recent refill request
     authoredOn: 2022-02-15
     code: 'RXNORM#859751 rosuvastatin calcium 20 MG Oral Tablet'
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#208 COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose'
+    occurrenceDateTime: 2021-01-20
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#208 COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose'
+    occurrenceDateTime: 2021-02-11
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#208 COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose'
+    occurrenceDateTime: 2021-10-20
 results:
   Notification: null
   Recommendation: null
