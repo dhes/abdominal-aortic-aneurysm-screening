@@ -119,6 +119,13 @@ data:
       - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
     vaccineCode: 'CVX#197 influenza, high-dose seasonal, quadrivalent, .7mL dose, preservative free'
     occurrenceDateTime: 2021-08-17
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#33 pneumococcal polysaccharide vaccine, 23 valent'
+    occurrenceDateTime: 2021-08-18
 results:
   Notification: null
   Recommendation: null
