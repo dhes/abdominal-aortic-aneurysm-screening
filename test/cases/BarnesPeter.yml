@@ -140,6 +140,14 @@ data:
       - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
     vaccineCode: 'CVX#133 pneumococcal conjugate vaccine, 13 valent'
     occurrenceDateTime: 2018-06-06
+    # THIS IS A COPY:
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#03 measles, mumps and rubella virus vaccine'
+    occurrenceDateTime: 2011-04-15
 results:
   Notification: null
   Recommendation: null
