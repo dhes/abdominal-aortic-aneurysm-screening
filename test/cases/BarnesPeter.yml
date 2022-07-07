@@ -79,11 +79,9 @@ data:
     status: final
     code: 'LOINC#13457-7 Cholesterol in LDL Calc [Mass/Vol]'
     valueQuantity: 113 mg/dL
-    # done at Castle Hospital see https://www.myadventisthealthportal.org/
     effectiveDateTime: 2013-01-04
   - resourceType: MedicationStatement
     status: active
-    # first Rx date per Elation
     effectiveDateTime: 2018-08-21
     code: 'RXNORM#859751 rosuvastatin calcium 20 MG Oral Tablet'
   - resourceType: MedicationRequest
@@ -140,7 +138,6 @@ data:
       - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
     vaccineCode: 'CVX#133 pneumococcal conjugate vaccine, 13 valent'
     occurrenceDateTime: 2018-06-06
-    # THIS IS A COPY:
   - resourceType: Immunization
     status: completed
     meta:
@@ -148,6 +145,20 @@ data:
       - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
     vaccineCode: 'CVX#03 measles, mumps and rubella virus vaccine'
     occurrenceDateTime: 2011-04-15
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#187 zoster vaccine recombinant'
+    occurrenceDateTime: 2018-04-26
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#187 zoster vaccine recombinant'
+    occurrenceDateTime: 2019-05-15
 results:
   Notification: null
   Recommendation: null
