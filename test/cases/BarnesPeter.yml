@@ -126,7 +126,6 @@ data:
       - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
     vaccineCode: 'CVX#33 pneumococcal polysaccharide vaccine, 23 valent'
     occurrenceDateTime: 2021-08-18
-    # THIS IS A COPY:
   - resourceType: Immunization
     status: completed
     meta:
@@ -134,6 +133,13 @@ data:
       - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
     vaccineCode: 'CVX#115 tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed'
     occurrenceDateTime: 2012-03-05
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#133 pneumococcal conjugate vaccine, 13 valent'
+    occurrenceDateTime: 2018-06-06
 results:
   Notification: null
   Recommendation: null
