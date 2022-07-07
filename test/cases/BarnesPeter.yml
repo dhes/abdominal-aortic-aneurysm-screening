@@ -159,6 +159,14 @@ data:
       - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
     vaccineCode: 'CVX#187 zoster vaccine recombinant'
     occurrenceDateTime: 2019-05-15
+    # THIS IS A COPY:
+  - resourceType: Immunization
+    status: completed
+    meta:
+      profile:
+      - http://hl7.org/fhir/us/core/StructureDefinition/us-core-immunization
+    vaccineCode: 'CVX#52 hepatitis A vaccine, adult dosage'
+    occurrenceDateTime: 2011-04-15
 results:
   Notification: null
   Recommendation: null
