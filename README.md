@@ -16,7 +16,7 @@ The abdominal aorta begins at the diaphragm, travels down through the abdomen, t
 
 An aneurysm is a sac-like widening of a blood vessels. The because of this widening, the wall of an aneurysm is weak and prone to rupture. 
 
-It is because the abdominal aorta is such a large vessel that an unrepaired rupture is so deadly. Even when diagnosed and repaired, not everyone survives surgery. For that who do suvive, like Gordon Lightfoot, recovery can be slow and difficult.  
+It is because the abdominal aorta is such a large vessel that an unrepaired rupture is so deadly. Even when diagnosed and repaired, not everyone survives surgery. For that who do survive, like Gordon Lightfoot, recovery can be slow and difficult.  
 
 These aneurysms do not generally cause symptoms until they rupture. For all of these reasons it is better to detect  and repair them before they rupture. 
 
