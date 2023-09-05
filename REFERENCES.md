@@ -53,3 +53,6 @@ So far I have not been able to confirm that any of these apps implements CDS hoo
 
 [HL7 Cross-Paradigm Specification: CDS Hooks, Release 1, STU2](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=497). See the IMPLEMENTATIONS/CASE STUDIES section. 
 
+[The road to clinical effectiveness](https://www.wolterskluwer.com/en/expert-insights/the-road-to-clinical-effectiveness). A podcast. 
+
+[Bryn Rhodes recent publications](https://pubmed.ncbi.nlm.nih.gov/?term=Bryn+Rhodes%5BAuthor%5D&sort=date). He's done some interesting WHO stuff recently. 
