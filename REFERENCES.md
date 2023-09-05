@@ -47,8 +47,9 @@ So far I have not been able to confirm that any of these apps implements CDS hoo
 
 [Evaluating a CDS Hook for FHIR Questionnaires in a SMART on FHIR App and an Existing Dermatological CDS System](https://pubmed.ncbi.nlm.nih.gov/37172143/)
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8324242/pdf/ocab070.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8324242/pdf/ocab070.pdf). This open a free full text pdf. 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8324242/pdf/ocab070.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8324242/pdf/ocab070.pdf). This open a free full text pdf. Notable quote: 'We are unaware of any commercial EHRs that currently support CQL for real-time, patient-specific, locally developed CDS that is outside of the population health management or quality measurement domains.'
 
 [HL7 Confluence webpage](https://confluence.hl7.org/display/CDS/Standards)
 
 [HL7 Cross-Paradigm Specification: CDS Hooks, Release 1, STU2](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=497). See the IMPLEMENTATIONS/CASE STUDIES section. 
+
